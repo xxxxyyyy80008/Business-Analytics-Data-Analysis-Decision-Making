@@ -1,2 +1,5 @@
-# Business-Analytics-Data-Analysis-Decision-Making
-SIMULATION MODELING WITH @RISK; FINANCIAL MODELS USING SIMULATION AND OPTIMIZATION
+# Business Analytics: Data Analysis & Decision Making - 6th Edition *by S. Christian Albright, Wayne L. Winston*
+
+**Sep 2023**
+
+This repository re-creates the simulation and optimization models in Excel in book [Business Analytics: Data Analysis & Decision Making - 6th Edition](https://www.amazon.com/Business-Analytics-Analysis-Decision-Standalone/dp/1305947541) using [Palisade @Risk](https://lumivero.com/products/at-risk/) software.
